@@ -1,0 +1,1 @@
+{"projectName":"testing-abhi","architecture":"Microservices","technology":"JAVA","projDesc":"Openshift Project for Commercial App based on Microservices","devOpsPlatform":true,"platformApplications":[{"appName":"BRMS","projectName":"testing-abhi","templateName":"decisionserver64-basic-s2i","parameters":null,"envVars":null,"cpu":null,"ram":null,"scope":null}]}
