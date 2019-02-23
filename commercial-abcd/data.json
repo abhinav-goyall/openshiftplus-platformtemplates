@@ -1,0 +1,1 @@
+{"projectName":"commercial-abcd","architecture":"Microservices","technology":"JAVA","projDesc":"Openshift Project for Commercial App based on Microservices","devOpsPlatform":true,"platformApplications":[{"appName":"postgres-sales","projectName":"commercial-abcd","templateName":"openshift/postgresql-persistent","parameters":null,"envVars":null,"cpu":null,"ram":null,"scope":null}]}
