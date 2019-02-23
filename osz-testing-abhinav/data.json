@@ -1,1 +1,0 @@
-{"projectName":"osz-testing-abhinav","architecture":"Microservices","technology":"JAVA","projDesc":"Openshift Project for Commercial App based on Microservices","devOpsPlatform":true,"platformApplications":[{"appName":"mongo-db-sales","projectName":"mongo","templateName":"mongodb-persistent","parameters":null,"envVars":null,"cpu":null,"ram":null,"scope":null}]}
