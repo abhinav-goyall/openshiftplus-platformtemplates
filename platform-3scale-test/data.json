@@ -1,0 +1,1 @@
+{"projectName":"platform-3scale-test","architecture":"Microservices","technology":"Java","projDesc":"platform-3scale-test","devOpsPlatform":false,"platformApplications":[{"appName":"three-scale","projectName":"platform-3scale-test","templateName":"openshift/3scale-gateway","parameters":null,"envVars":null,"cpu":null,"ram":null,"scope":null}]}
