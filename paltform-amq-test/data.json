@@ -1,1 +1,0 @@
-{"projectName":"paltform-amq-test","architecture":"Microservices","technology":"Java","projDesc":"paltform-amq-test","devOpsPlatform":false,"platformApplications":[{"appName":"amq-stream","projectName":"paltform-amq-test","templateName":"openshift/amqstreams","parameters":null,"envVars":null,"cpu":null,"ram":null,"scope":null}]}

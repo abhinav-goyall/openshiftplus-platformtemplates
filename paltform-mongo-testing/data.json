@@ -1,1 +1,0 @@
-{"projectName":"paltform-mongo-testing","architecture":"Microservices","technology":"Java","projDesc":"paltform-mongo-testing","devOpsPlatform":false,"platformApplications":[{"appName":"mongo-db","projectName":"paltform-mongo-testing","templateName":"openshift/mongodb-persistent","parameters":null,"envVars":null,"cpu":null,"ram":null,"scope":null}]}
